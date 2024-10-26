@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Yanwen Wang 👋
 
-<!--
-**yanwenwang24/yanwenwang24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m a Ph.D. candidate in Sociology at the National University of Singapore
+- 📚️ I study social stratification, family demography, and subjective well-being
+- 🌱 I’m currently learning Julia and working on creating some Julia packages
+- 📫 How to reach me: yanwenwang@u.nus.edu
+- ⚡ Fun fact: I have a lovely cat named Harvard
 
-Here are some ideas to get you started:
+### Github Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Yanwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanwenwang24&show_icons=true&theme=tokyonight)
+
+### Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanwenwang24&theme=tokyonight)
