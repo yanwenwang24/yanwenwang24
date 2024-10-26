@@ -1,10 +1,11 @@
 ## Hi there, I'm Yanwen Wang 👋
 
-- 🔭 I’m a Ph.D. candidate in Sociology at the National University of Singapore
-- 📚️ I study social stratification, family demography, and subjective well-being
-- 🌱 I’m currently learning Julia and working on creating some Julia packages
+- 🔭 I’m a Ph.D. candidate in Sociology at the National University of Singapore.
+- 📚️ I study social stratification, family demography, and subjective well-being.
+- 📖️ I'm committed to research transparency.
+- 🌱 I’m currently learning Julia and working on creating some Julia packages.
+- 🐈️ Fun fact: I have a lovely cat named Harvard.
 - 📫 How to reach me: yanwenwang@u.nus.edu
-- ⚡ Fun fact: I have a lovely cat named Harvard
 
 ### Github Stats
 
