@@ -1,4 +1,4 @@
-## Hi there, I'm Yanwen Wang 👋
+## 👋 Hi there, I'm Yanwen Wang
 
 - 🔭 I’m a Ph.D. candidate in Sociology at the National University of Singapore.
 - 📚️ I study social stratification, family demography, and subjective well-being.
