@@ -9,8 +9,8 @@
 
 ### Github Stats
 
-![Yanwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanwenwang24&show_icons=true&theme=tokyonight)
+![Yanwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanwenwang24&show_icons=true&theme=transparent)
 
 ### Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanwenwang24&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanwenwang24&theme=transparent)
