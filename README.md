@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Yanwen Wang
 
-- 🔭 I'm a Ph.D. candidate in Sociology at the National University of Singapore.
-- 📚️ I study social stratification, family demography, and subjective well-being.
-- 📖️ I'm committed to research transparency.
+- 🎓 I'm a Ph.D. candidate in Sociology at the National University of Singapore.
+- 🔭 I study social stratification, family demography, and subjective well-being.
+- 🔍️ I'm committed to research transparency.
 - 🐈️ I have a lovely cat named Harvard.
 - 📫 Reach me via <yanwenwang@u.nus.edu>
 
