@@ -4,6 +4,7 @@
 - 🔭 I study social stratification, family demography, and subjective well-being.
 - 🔍️ I'm committed to research transparency.
 - 🐈️ I have a lovely cat named Harvard.
+- 📝 Download my [Curriculum Vitae](./assets/CV.pdf)
 - 📫 Reach me via <yanwenwang@u.nus.edu>
 
 ## Publications
@@ -22,3 +23,7 @@
 1. [Thesis template](https://github.com/yanwenwang24/NUS-Thesis-Latex-Template) for National University of Singapore
 2. [Beamer slides](https://github.com/yanwenwang24/NUS-Beamer-Slides) for National University of Singapore
 3. [Beamer slides](https://github.com/yanwenwang24/NYUAD-Beamer-Slides) for New York University Abu Dhabi
+
+## Tools
+
+[![My Skills](https://skillicons.dev/icons?i=r,python,julia,vscode,obsidian&theme=light)](https://skillicons.dev)
