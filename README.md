@@ -4,7 +4,6 @@
 - 🔭 I study social stratification, family demography, and subjective well-being.
 - 🔍️ I'm committed to research transparency.
 - 🐈️ I have a lovely cat named Harvard.
-- 📝 Download my [Curriculum Vitae](./assets/CV.pdf)
 - 📫 Reach me via <yanwenwang@u.nus.edu>
 
 ## Publications
