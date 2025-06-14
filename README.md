@@ -25,4 +25,4 @@
 
 ## Tools
 
-[![My Skills](https://skillicons.dev/icons?i=r,python,julia,vscode,obsidian&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,python,julia,vscode,obsidian&theme=dark)](https://skillicons.dev)
