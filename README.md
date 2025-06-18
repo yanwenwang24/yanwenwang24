@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Yanwen Wang
 
-- 💼 I'm excited to join New York University Abu Dhabi as a Post-Doctoral Associate at the Division of Social Science starting in September 2025.
+- 💼 I'll be joining New York University Abu Dhabi as a Postdoctoral Associate in September 2025.
 - 🎓 I received my Ph.D. in Sociology from the National University of Singapore.
 - 🔭 I study social stratification, family demography, and subjective well-being.
 - 🔍️ I'm committed to research transparency.
