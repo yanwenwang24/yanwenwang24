@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Yanwen Wang
 
 - 💼 I'm a Post-Doctoral Associate at New York University Abu Dhabi.
-- 🎓 I received my Ph.D. in Sociology from the National University of Singapore.
 - 🔭 I study stratification, demography, and well-being.
 - 🔍️ I'm committed to research transparency.
 - 🐈️ I have a lovely cat named Harvard.
@@ -9,7 +8,7 @@
 
 ## Publications
 
-1. **Wang, Yanwen**\*, Senhu Wang, and Zheng Mu. 2025. “Married Couples’ Life Satisfaction and Gender Divisions of Income and Housework in China.” *Journal of Family and Economic Issues* 46(3). doi:[10.1007/s10834-025-10052-w](https://doi.org/10.1007/s10834-025-10052-w). [Replication](https://github.com/yanwenwang24/Income-Housework-SWB-China)
+1. **Wang, Yanwen**\*, Senhu Wang, and Zheng Mu. 2025. “Married Couples’ Life Satisfaction and Gender Divisions of Income and Housework in China.” *Journal of Family and Economic Issues* 46(3):738–48. doi:[10.1007/s10834-025-10052-w](https://doi.org/10.1007/s10834-025-10052-w). [Replication](https://github.com/yanwenwang24/Income-Housework-SWB-China)
 
 2. **Wang, Yanwen**. 2025. “Educational Sorting in Unions and Subjective Well-Being in Europe: Gender Differences and Contextual Variations.” *Research in Social Stratification and Mobility* 96:101020. doi:[10.1016/j.rssm.2025.101020](https://doi.org/10.1016/j.rssm.2025.101020). [Replication](https://github.com/yanwenwang24/Edu-Sorting-SWB-Europe)
 3. **Wang, Yanwen**, and Zheng Mu\*. 2025. “Partnership Trajectories toward Childlessness in China.” *Family Relations* 74(2):901–15. doi:[10.1111/fare.13136](https://doi.org/10.1111/fare.13136). [Replication](https://github.com/yanwenwang24/Trajectories-Childlessness-China)
