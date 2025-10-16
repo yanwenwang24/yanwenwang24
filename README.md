@@ -8,7 +8,7 @@
 
 ## Publications
 
-1. **Wang, Yanwen**. 2025. “Enduring Boundaries, Emerging Bridges: Patterns of Caste and Ethnic Intermarriage in Nepal.” *Research in Social Stratification and Mobility* 100. doi:[10.1016/j.rssm.2025.101104](https://doi.org/10.1016/j.rssm.2025.101104). [Replication](https://github.com/yanwenwang24/Intercaste-Marriage-Nepal)
+1. **Wang, Yanwen**. 2025. “Enduring Boundaries, Emerging Bridges: Patterns of Caste and Ethnic Intermarriage in Nepal.” *Research in Social Stratification and Mobility* 100:101104. doi:[10.1016/j.rssm.2025.101104](https://doi.org/10.1016/j.rssm.2025.101104). [Replication](https://github.com/yanwenwang24/Intercaste-Marriage-Nepal)
 
 2. **Wang, Yanwen**\*, Senhu Wang, and Zheng Mu. 2025. “Married Couples’ Life Satisfaction and Gender Divisions of Income and Housework in China.” *Journal of Family and Economic Issues* 46(3):738–48. doi:[10.1007/s10834-025-10052-w](https://doi.org/10.1007/s10834-025-10052-w). [Replication](https://github.com/yanwenwang24/Income-Housework-SWB-China)
 
