@@ -29,6 +29,7 @@
 1. [Thesis template](https://github.com/yanwenwang24/NUS-Thesis-Latex-Template) for National University of Singapore
 2. [Beamer slides](https://github.com/yanwenwang24/NUS-Beamer-Slides) for National University of Singapore
 3. [Beamer slides](https://github.com/yanwenwang24/NYUAD-Beamer-Slides) for New York University Abu Dhabi
+4. [Syllabus template](https://github.com/yanwenwang24/Syllabus-Template) for New York University Abu Dhabi
 
 ## Tools
 
