@@ -8,7 +8,7 @@
 
 ## Publications
 
-1. **Wang, Yanwen**, and Zheng Mu\*. 2026. “[Three Decades of Interethnic Marriage in China: Ethnic Boundaries, Educational Sorting, and Status Exchange.](https://doi.org/10.1016/j.ssresearch.2026.103352)” *Social Science Research* Forthcoming. [Replication](https://github.com/yanwenwang24/Interethnic-Marriage-China)
+1. **Wang, Yanwen**, and Zheng Mu\*. 2026. “[Three Decades of Interethnic Marriage in China: Ethnic Boundaries, Educational Sorting, and Status Exchange.](https://doi.org/10.1016/j.ssresearch.2026.103352)” *Social Science Research* 136:103352. [Replication](https://github.com/yanwenwang24/Interethnic-Marriage-China)
 
 2. **Wang, Yanwen**. 2025. “[Enduring Boundaries, Emerging Bridges: Patterns of Caste and Ethnic Intermarriage in Nepal.](https://doi.org/10.1016/j.rssm.2025.101104)” *Research in Social Stratification and Mobility* 100:101104. [Replication](https://github.com/yanwenwang24/Intercaste-Marriage-Nepal)
 
