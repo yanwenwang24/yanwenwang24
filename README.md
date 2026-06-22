@@ -28,14 +28,6 @@
 
 1. [LatentClassAnalysis.jl](https://github.com/yanwenwang24/LatentClassAnalysis.jl): A Julia Package for Latent Class Analysis.
 
-## Templates
-
-1. [Thesis template](https://github.com/yanwenwang24/NUS-Thesis-Latex-Template) for National University of Singapore
-2. [Beamer slides](https://github.com/yanwenwang24/NUS-Beamer-Slides) for National University of Singapore
-3. [Beamer slides](https://github.com/yanwenwang24/NYUAD-Beamer-Slides) for New York University Abu Dhabi
-4. [Syllabus template](https://github.com/yanwenwang24/Syllabus-Template) for New York University Abu Dhabi
-5. [Response letter template](https://github.com/yanwenwang24/Response-Letter-Latex)
-
 ## Tools
 
 [![My Skills](https://skillicons.dev/icons?i=r,python,julia,vscode,obsidian&theme=dark)](https://skillicons.dev)
