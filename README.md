@@ -8,9 +8,9 @@
 
 ## Publications
 
-1. **Wang, Yanwen**, Zheng Mu, Anni Ni, and Chan Zhang\*. “From Status to Soul: Gendered Ideals and Quests for Compatibility in Contemporary Relationships.” (Forthcoming, *Chinese Sociological Review*). [Replication](https://github.com/yanwenwang24/Status-Soul-Compatibility-Factorial-China)
+1. **Wang, Yanwen**, and Zheng Mu\*. “Understanding Trends in Marital Sorting by Education in China: A Decomposition Approach.” (Forthcoming, *Demography*). [Replication](https://github.com/yanwenwang24/Decompose-Edu-Sorting-China)
 
-2. **Wang, Yanwen**, and Zheng Mu\*. “Understanding Trends in Marital Sorting by Education in China: A Decomposition Approach.” (Forthcoming, *Demography*). [Replication](https://github.com/yanwenwang24/Decompose-Edu-Sorting-China)
+2. **Wang, Yanwen**, Zheng Mu, Anni Ni, and Chan Zhang\*. “[From Status to Soul: Gendered Ideals and Quests for Compatibility in Contemporary Relationships.](https://doi.org/10.1080/21620555.2026.2707637)” *Chinese Sociological Review* 58(4). [Replication](https://github.com/yanwenwang24/Status-Soul-Compatibility-Factorial-China)
 
 3. **Wang, Yanwen**, and Zheng Mu\*. 2026. “[Three Decades of Interethnic Marriage in China: Ethnic Boundaries, Educational Sorting, and Status Exchange.](https://doi.org/10.1016/j.ssresearch.2026.103352)” *Social Science Research* 136:103352. [Replication](https://github.com/yanwenwang24/Interethnic-Marriage-China)
 
